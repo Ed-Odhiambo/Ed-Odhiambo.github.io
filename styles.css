@@ -1,0 +1,9 @@
+h1, h2{
+    color: rgba(170,189,140,1);
+}
+body{
+    background: rgba(0,52,89,1);
+}
+.first{
+    color: rgb(255,255,255);
+}
