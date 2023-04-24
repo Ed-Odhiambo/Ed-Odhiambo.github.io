@@ -1,5 +1,6 @@
 h1, h2{
     color: rgba(170,189,140,1);
+    background: rgba(148,119,139,0.33);
 }
 body{
     background: rgba(0,52,89,1);
@@ -9,4 +10,7 @@ body{
 }
 .second{
     color: rgb(255,64,0);
+}
+#linkage{
+    background: rgba(148,189,118,0.2)
 }
