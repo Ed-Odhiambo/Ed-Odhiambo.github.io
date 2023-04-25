@@ -12,5 +12,10 @@ body{
     color: rgb(255,64,0);
 }
 #linkage{
-    background: rgba(148,189,118,0.2)
+    background: rgba(148,189,118,0.2);
+}
+.third{
+    color: rgb(255,64,0);
+    background-blend-mode: rgb(0,0,0);
+    border-bottom: rgb(0,0,0);
 }
