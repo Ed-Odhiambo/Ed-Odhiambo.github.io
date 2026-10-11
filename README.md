@@ -1,15 +1,16 @@
-# Ed-Odhiambo.github.io
+# Ed Odhiambo Portfolio
 
-## Introduction
+A static GitHub Pages portfolio focused exclusively on data analytics, data science, SQL, quantitative research, and financial analytics.
 
-![1682351786312](image/README/1682351786312.png)This is a website I have created for my portfolio where I can add all the information about myself, my professional background, academic background and achievements. It stemed from a desire to improve my skills from what I have learnt in class and do more practice to increase my proficiency.
+## Deploy to GitHub Pages
 
-## Overview
+1. Back up the current contents of `Ed-Odhiambo/Ed-Odhiambo.github.io`.
+2. Replace the root `index.html` and `styles.css` with the files in this package.
+3. Add `script.js`.
+4. Add `Ed-Odhiambo-CV.pdf`.
+5. Commit and push to the `main` branch.
+6. GitHub Pages should refresh automatically at https://ed-odhiambo.github.io.
 
-From determining the doctype to creating a link back to the main page it was an interesting process. The first page has the intoduction and the links to the about page as well as a linkage relationship for stylesheets. Here I have used the properties to change and beautify the page using colors and background differenciation. 
+## Confidentiality
 
-The second page has a linkage relationship to the styles sheet a well as links to other sites with more information on my work and achievements. I have also included information about myself and what I am good at. I am expecting to do better as I learn more
-
-## Next Steps
-
-I aim make this body better as I add more and more into the document while I learn more and get more insights. Stay tuned.
+The predictive-modelling research card intentionally contains methodology only. Do not add the project domain, dataset particulars, participant details, or findings unless explicitly cleared for public release.
