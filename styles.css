@@ -151,3 +151,13 @@ footer{
   .mini-grid{grid-template-columns:1fr}
   footer{width:calc(100% - 28px);flex-direction:column}
 }
+
+.project-link,.text-link{
+  display:inline-flex;
+  margin-top:16px;
+  color:var(--accent);
+  font-size:.86rem;
+  font-weight:700;
+}
+.project-link:hover,.text-link:hover{text-decoration:underline}
+.credentials{padding-top:40px}
